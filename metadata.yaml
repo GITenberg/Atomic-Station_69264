@@ -1,5 +1,8 @@
 _repo: Atomic-Station_69264
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69264-h/images/cover.jpg
 creator:
   author:
     agent_name: Long, Frank Belknap
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25911
     wikipedia: https://en.wikipedia.org/wiki/Frank_Belknap_Long
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69264#Atomic-Station
 gutenberg_issued: '2022-10-30'
 identifiers:
   gutenberg: '69264'
